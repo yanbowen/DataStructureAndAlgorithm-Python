@@ -13,4 +13,5 @@ class BinarySearchTree:
 
 
 if __name__ == '__main__':
-    BinarySearchTree.isValidBST()
+    num = [2, 1] + [3]
+print(num)
